@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # poll
 
 # 原型地址
@@ -24,3 +25,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# kediao
+这是一个课调项目
+>>>>>>> ff8802fc7f7412e5cade1b209fb131fe25ad7be9
